@@ -185,20 +185,13 @@ body {
 	padding: 1.5rem;
 	background: #fff;
 	justify-content: space-between;
-	align-items: center;
-	height: 16rem;
-	min-width: 6rem;
 }
-
 
 .extra {
 	display: flex;
-	padding: 1.5rem;
 	background: #fff;
 	justify-content: space-between;
 	align-items: center;
-	height: 16rem;
-	min-width: 6rem;
 }
 
 .right-card {
